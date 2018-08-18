@@ -1,4 +1,4 @@
-scooter_contructor = function (year, color, model) {
+scooter_constructor = function (year, color, model) {
   this.year = year
   // this.color = color
   this.model = model
@@ -10,7 +10,7 @@ function driver_constructor(name, age, hometown) {
   this.experience = experience
 }
 
-PickupLocation_contructor = function (address, cities) {
+PickupLocation_constructor = function (address, cities) {
   this.address = address
   this.cities = cities
 }
