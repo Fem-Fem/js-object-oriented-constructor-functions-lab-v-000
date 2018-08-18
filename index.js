@@ -11,7 +11,8 @@ driver_contructor = function (name, age, experience) {
 }
 
 PickupLocation_contructor = function (address, cities) {
-  this.address = cities
+  this.address = address
+  this.cities = cities
 }
 
 reate a constructor function for each of the following:
