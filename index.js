@@ -1,6 +1,6 @@
 function Scooter (year, color, model) {
   this.year = year
-  // this.color = color
+  this.color = color
   this.model = model
 }
 
@@ -10,7 +10,7 @@ function Driver(name, age, experience) {
   this.experience = experience
 }
 
-PickupLocation_constructor = function (address, cities) {
+function PickupLocation_(address, cities) {
   this.address = address
   this.cities = cities
 }
