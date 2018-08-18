@@ -1,10 +1,10 @@
-scooter = function (year, color, model) {
+Scooter = function (year, color, model) {
   this.year = year
   // this.color = color
   this.model = model
 }
 
-function driver_constructor(name, age, hometown) {
+function Driver(name, age, hometown) {
   this.name = name
   this.age = age
   this.experience = experience
