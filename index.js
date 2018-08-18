@@ -1,4 +1,4 @@
-scooter_constructor = function (year, color, model) {
+scooter = function (year, color, model) {
   this.year = year
   // this.color = color
   this.model = model
