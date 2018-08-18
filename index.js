@@ -15,12 +15,6 @@ PickupLocation_contructor = function (address, cities) {
   this.cities = cities
 }
 
-reate a constructor function for each of the following:
-
-    Scooter with year, color, and model properties
-    Driver with name, age, and experience properties
-    PickupLocation with address and city properties
-
 scooter_contructor()
 
 let Scotter = new scooter_contructor
