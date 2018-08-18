@@ -10,9 +10,9 @@ function Driver(name, age, experience) {
   this.experience = experience
 }
 
-function PickupLocation_(address, cities) {
+function PickupLocation(address, city) {
   this.address = address
-  this.cities = cities
+  this.city = city
 }
 
 scooter_contructor()
