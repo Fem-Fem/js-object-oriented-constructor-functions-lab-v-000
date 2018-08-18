@@ -18,5 +18,3 @@ function PickupLocation(address, city) {
 scooter_contructor()
 driver_contructor()
 PickupLocation_contructor()
-
-let Scotter = new scooter_contructor
