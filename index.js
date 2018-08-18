@@ -10,6 +10,9 @@ driver_contructor = function (name, age, experience) {
   this.experience = experience
 }
 
+PickupLocation_contructor = function (address, cities) {
+  this.address = cities
+}
 
 reate a constructor function for each of the following:
 
